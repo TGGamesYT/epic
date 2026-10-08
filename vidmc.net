@@ -1,0 +1,5 @@
+{
+  "motd": "[{\"text\": \"M\", \"color\": \"#881944\"}, {\"text\": \"i\", \"color\": \"#8d204a\"}, {\"text\": \"n\", \"color\": \"#922751\"}, {\"text\": \"e\", \"color\": \"#972e58\"}, {\"text\": \"c\", \"color\": \"#9c365f\"}, {\"text\": \"r\", \"color\": \"#a13d65\"}, {\"text\": \"a\", \"color\": \"#a6446c\"}, {\"text\": \"f\", \"color\": \"#ab4b73\"}, {\"text\": \"t\", \"color\": \"#b0537a\"}, {\"text\": \" \", \"color\": \"#b55a81\"}, {\"text\": \"E\", \"color\": \"#ba6187\"}, {\"text\": \"p\", \"color\": \"#bf688e\"}, {\"text\": \"i\", \"color\": \"#c47095\"}, {\"text\": \"c\", \"color\": \"#c9779c\"}, {\"text\": \" \", \"color\": \"#ce7ea2\"}, {\"text\": \"M\", \"color\": \"#d385a9\"}, {\"text\": \"i\", \"color\": \"#d88db0\"}, {\"text\": \"n\", \"color\": \"#dd94b7\"}, {\"text\": \"i\", \"color\": \"#e29bbe\"}, {\"text\": \"g\", \"color\": \"#e7a2c4\"}, {\"text\": \"a\", \"color\": \"#ecaacb\"}, {\"text\": \"m\", \"color\": \"#f1b1d2\"}, {\"text\": \"e\", \"color\": \"#f6b8d9\"}, {\"text\": \"s\", \"color\": \"#fbc0e0\"}]",
+  "icon": "https://tggamesyt.dev/assets/epic-minigames-server.png",
+  "maxplayers": 167
+}
